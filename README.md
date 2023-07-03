@@ -1,8 +1,2 @@
-Mm
-
-
-
-
-My first readme
-My first readme
-My first readme
+update on my sofware pre_course
+update on my terminal
